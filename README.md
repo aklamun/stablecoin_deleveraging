@@ -3,8 +3,8 @@ Resources from paper "(In)Stability for the Blockchain: Deleveraging Spirals and
 Presented at Crypto Valley Conference 2019, European Central Bank P2P Financial Systems 2019, and Crypto Economics Security Conference 2019
 
 
-Paper available [here](https://arxiv.org/abs/1906.02152)
-Devcon V talk available [here](https://www.youtube.com/watch?v=qOi50UtxL7A)
+Paper available [here](https://arxiv.org/abs/1906.02152),
+Devcon V talk available [here](https://www.youtube.com/watch?v=qOi50UtxL7A),
 DeFi Summit talk (longer version) [here](https://www.youtube.com/watch?v=NxpsHA_5Lr4)
 
 
