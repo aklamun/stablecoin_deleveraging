@@ -1,5 +1,6 @@
 # Stablecoin_Deleveraging
 Resources from paper "(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks"
+
 Presented at Crypto Valley Conference 2019, European Central Bank P2P Financial Systems 2019, and Crypto Economics Security Conference 2019
 
 
